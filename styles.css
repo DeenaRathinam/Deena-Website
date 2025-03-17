@@ -3,7 +3,7 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: 'times new roman', sans-serif;
+    font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
 
@@ -99,7 +99,7 @@ section{
 }
 
 .animated-text h3{
-    color: #4e9eff;
+    color: white;
     font-size: 3em;
     font-weight: 700;
     line-height: 70px;
